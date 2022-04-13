@@ -27,6 +27,11 @@
           <a class="nav-link" aria-current="page" href="index.php">Inicio</a>
         </li>
       </ul>
+      <ul class="navbar-nav mb-2 mb-lg-0">
+        <li style="margin-left: 10px; ">
+        <button type="button" class="btn btn-success" onclick="location.href='login.php';">Iniciar Sesión</button>
+        </li>
+      </ul>
     </div>
   </div>
 </nav>
